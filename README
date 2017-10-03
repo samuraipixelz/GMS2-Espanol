@@ -1,0 +1,15 @@
+# Traduciendo GameMaker Studio 2 al Español
+Con la introducción de GameMaker Studio 2 versión 2.0.77, el equipo de YoYo Games ha añadido la posibilidad de traducir el IDE o el entorno de desarrollo integrado.  Este repositorio mantiene la traducción no oficial en Español del IDE de GameMaker Studio 2. Aportes y sugerencias son bienvenidas. Por favor, haz un informe de error o un "pull request" con tus dudas o sugerencias. 
+
+# Añadiendo el idioma Español
+## Windows
+- Descarga el repositorio y descomprimelo.
+- Añada la carpeta **Languages** y su contenido a **C:\ProgramData\GameMakerStudio2**. Si ya tienes una carpeta llamada **Languages**, solamente añada el archivo **spanish.csv** dentro de la carpeta.
+- Abre GameMaker Studio 2 y selecciona **Spanish/Español** en **Preferences>General Settings**.
+- Aplica los cambios y reinicia GameMaker Studio 2.
+
+## Mac
+- Descarga el repositorio y descomprimelo
+- Añada la carpeta **Languages** y su contenido a **/Usuarios/Compartido/GameMakerStudio2/Languages**. Si ya tienes una carpeta llamada **Languages**, solamente añada el archivo **spanish.csv** dentro de la carpeta.
+- Abre GameMaker Studio 2 y selecciona **Spanish/Español** en **Preferences>General Settings**.
+- Aplica los cambios y reinicia GameMaker Studio 2.
